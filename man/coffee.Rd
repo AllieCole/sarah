@@ -2,16 +2,16 @@
 % Please edit documentation in R/coffee.R
 \name{coffee}
 \alias{coffee}
-\title{A way for Sarah to limit their caffine intake}
+\title{A way for Sarah to limit their caffeine intake}
 \usage{
 coffee(cups)
 }
 \arguments{
-\item{cups}{Here sarah can enter the number of cups of coffee they have consumed}
+\item{cups}{Here Sarah can enter the number of cups of coffee they have consumed}
 }
 \value{
 
 }
 \description{
-A way for Sarah to limit their caffine intake
+Just to make sure they dont die
 }
