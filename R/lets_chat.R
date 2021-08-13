@@ -31,5 +31,11 @@ lets_chat <- function(words) {
 
   } else if (words == "How is school?") {
     return("Its great! I learned how to make an r package")
+
+  } else if (words == "Aren't you wondering how I am?") {
+    return("Yes! how did you know? please text me how you are becasue I haven't figure out how to code that")
+
+  } else if (words == "Soooooo") {
+    return("Yeah I am running out of things to type, but ill do a package update later?")
   }
 }
