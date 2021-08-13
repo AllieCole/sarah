@@ -2,7 +2,6 @@
 ##### ---- Lets Chat Function ---- #####
 
 
-
 #' A function so I can talk to Sarah ~virtually~
 #'
 #' Sup dude, lets chat
@@ -29,5 +28,8 @@ lets_chat <- function(words) {
 
   } else if (words == "I miss you") {
     return("Ugh same dude")
+
+  } else if (words == "How is school?") {
+    return("Its great! I learned how to make an r package")
   }
 }
