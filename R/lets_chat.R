@@ -37,5 +37,8 @@ lets_chat <- function(words) {
 
   } else if (words == "Soooooo") {
     return("Yeah I am running out of things to type, but ill do a package update later?")
+
+  } else if (words == "Bye!") {
+    return("Bye dude! love you, have a good day. (dont kill anyone in the lab)")
   }
 }
