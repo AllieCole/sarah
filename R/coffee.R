@@ -20,6 +20,9 @@ coffee <- function(cups) {
 
   } else if (cups > 7) {
     message("WOAH! maybe slow down there bro, don't die from a caffine overdose")
+
+  } else if (cups > 100) {
+    message("I'm surprised you are still able to code, please call the hospital and then me")
   }
 }
 
