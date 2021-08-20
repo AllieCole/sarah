@@ -18,7 +18,7 @@ coffee <- function(cups) {
   } else if (cups > 5 & cups <= 7) {
     message("Hmmmm, maybe slow down but ok, have another")
 
-  } else if (cups > 7) {
+  } else if (cups > 7 & cups <= 10) {
     message("WOAH! maybe slow down there bro, don't die from a caffine overdose")
 
   } else if (cups > 100) {
